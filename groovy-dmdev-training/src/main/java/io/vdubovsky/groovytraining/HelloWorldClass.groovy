@@ -13,7 +13,7 @@ class HelloWorldClass {
         println "Hello $world" // GStringImpl -> String interpolation
 
         def greetingMessage = """Hello "Wlodek" 'Waldemarek' 
-and Hello $world""" //GStringImpl -> String interpolation
+and Hello $world""" // GStringImpl -> String interpolation
 
         println greetingMessage
 
