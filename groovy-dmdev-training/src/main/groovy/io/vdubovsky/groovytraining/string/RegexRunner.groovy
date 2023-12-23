@@ -1,4 +1,4 @@
-package io.vdubovsky.groovytraining
+package io.vdubovsky.groovytraining.string
 
 import java.util.regex.Pattern
 

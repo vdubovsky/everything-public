@@ -15,8 +15,8 @@ class OperatorRunner {
         println 'assert integer'
         println 130 === a + b
         println 130 == a + b
-        println 130 <=> 130
-        println 130 <=> 131
-        println 130 <=> 129
+        println 130 <=> 130 // 0
+        println 130 <=> 131 // -1
+        println 130 <=> 129 // +1
     }
 }
