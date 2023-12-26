@@ -1,4 +1,4 @@
-package io.vdubovsky.groovytraining.recap
+package io.vdubovsky.groovytraining.syntax
 
 import java.sql.Date as SqlDate
 
