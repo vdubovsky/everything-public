@@ -1,7 +1,8 @@
-package io.vdubovsky.groovytraining.variables
+package io.vdubovsky.groovytraining.recap
 
 class VariablesRunner {
 
+    // There is no primitives in Groovy
     static void main(String[] args) {
         int a = 5
         assert a.getClass() == Integer

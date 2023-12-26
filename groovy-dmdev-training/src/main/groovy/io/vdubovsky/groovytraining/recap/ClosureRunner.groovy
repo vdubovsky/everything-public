@@ -1,4 +1,4 @@
-package io.vdubovsky.groovytraining.closure
+package io.vdubovsky.groovytraining.recap
 
 import java.util.function.Function
 import java.util.stream.Stream

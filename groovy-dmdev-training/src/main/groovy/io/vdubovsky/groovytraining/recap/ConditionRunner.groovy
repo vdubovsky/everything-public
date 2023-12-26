@@ -1,4 +1,4 @@
-package io.vdubovsky.groovytraining.condition
+package io.vdubovsky.groovytraining.recap
 
 class ConditionRunner {
 

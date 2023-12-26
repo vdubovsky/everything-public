@@ -1,4 +1,4 @@
-package io.vdubovsky.groovytraining.switcch
+package io.vdubovsky.groovytraining.recap
 
 import groovy.transform.builder.Builder
 

@@ -1,4 +1,4 @@
-package io.vdubovsky.groovytraining.condition
+package io.vdubovsky.groovytraining.recap
 
 class ConditionNullSafeRunner {
 
@@ -6,6 +6,8 @@ class ConditionNullSafeRunner {
         def p = new Person()
         p = Math.random() > 0.5 ? p : null
         println p?.getX()
+        println "get class"
+        println p?.getClass()
         p?.doX()
     }
 

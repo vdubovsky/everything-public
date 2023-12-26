@@ -1,4 +1,4 @@
-package io.vdubovsky.groovytraining.operator
+package io.vdubovsky.groovytraining.recap
 
 class OperatorRunner {
 
