@@ -20,5 +20,24 @@ class ListRunner {
         println arr
         arr << 11 << 12 << 13
         println arr
+
+        arr.push(155)
+        println arr
+
+        assert arr.head() == 155
+        assert arr.head() == 155
+        assert arr.head() == 155
+        assert arr.head() == 155
+        assert arr.head() == 155
+
+        assert arr.pop() == 155
+        assert arr.pop() === 2
+
+        println arr.tail()
+
+        assert arr.last() == 13
+        assert arr.last() == 13
+        assert arr.last() == 13
+        assert arr.last() == 13
     }
 }
