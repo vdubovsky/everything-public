@@ -21,6 +21,7 @@ class ListRunner {
         arr << 11 << 12 << 13
         println arr
 
+        println "push"
         arr.push(155)
         println arr
 
