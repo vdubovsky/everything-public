@@ -32,6 +32,9 @@ class OopRunner {
         println "field"
 
         println p1.@age
+
+        println 'properties'
+        p1.properties.each { println it }
     }
 }
 
